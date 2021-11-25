@@ -1,0 +1,2 @@
+vox1_dev_txt.zip	9c3b51e34038d1bdb2174dcc66543267
+vox1_test_txt.zip	8e06592a5f604e23e8cd10f421b36cc3

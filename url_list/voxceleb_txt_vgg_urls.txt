@@ -1,0 +1,2 @@
+https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data/vox1_dev_txt.zip
+https://www.robots.ox.ac.uk/~vgg/data/voxceleb/data/vox1_test_txt.zip

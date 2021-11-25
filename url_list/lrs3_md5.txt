@@ -1,0 +1,10 @@
+lrs3_v0.4_txt.zip	    d6a322038ce4fb2cd53742b28901070f
+lrs3_test_v0.4.zip	    ffffd01e37e8da95ca1a6c27eb9d29f4
+lrs3_trainval.zip	    ed87c25127e7baae467f06db4f402838    ed87c25127e7baae467f06db4f402838
+lrs3_pretrain_partaa	c6db35cf0bd550a6b82712b8311931f5    c6db35cf0bd550a6b82712b8311931f5
+lrs3_pretrain_partab	f45fd4c6fcd72e55f90792bb204e8c8b    f45fd4c6fcd72e55f90792bb204e8c8b
+lrs3_pretrain_partac	3cd5c1a85526097a50d04464b1e76d1e    3cd5c1a85526097a50d04464b1e76d1e
+lrs3_pretrain_partad	541b0b449df0bfd173a351f523dbec8c    541b0b449df0bfd173a351f523dbec8c
+lrs3_pretrain_partae	be1bdd48e47332ab8143fcb5adefff58    1b28d55342787f8e7a7076c4c91ab293
+lrs3_pretrain_partaf	8f7d70a6ecb8912e4dc7729b311df911
+lrs3_pretrain_partag	4fe5ff72e33e58a6cf22964239d9a30flrs3_trainval.zip

@@ -1,0 +1,10 @@
+https://www.robots.ox.ac.uk/~vgg/data/lip_reading/files/lrs3_v0.4_txt.zip
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_test_v0.4.zip
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_trainval.zip
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partaa
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partab
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partac
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partad
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partae
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partaf
+http://mm.kaist.ac.kr/lip_reading/data3/lrs3_pretrain_partag

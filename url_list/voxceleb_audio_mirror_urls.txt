@@ -1,0 +1,5 @@
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox1_dev_wav_partaa
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox1_dev_wav_partab
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox1_dev_wav_partac
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox1_dev_wav_partad
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox1_test_wav.zip

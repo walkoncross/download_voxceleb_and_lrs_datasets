@@ -1,0 +1,9 @@
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partaa
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partab
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partac
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partad
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partae
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partaf
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partag
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_dev_aac_partah
+http://mm.kaist.ac.kr/voxceleb/vox1a/vox2_test_aac.zip

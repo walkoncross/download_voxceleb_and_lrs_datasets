@@ -1,0 +1,9 @@
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/lrs2_v1_partaatd	076acd9849425cf0e4ddfe0e8891e1a7
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/lrs2_v1_partabtd	602f0ac4f9f9f150b81a9fdf073ae345
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/lrs2_v1_partactd	c6e884d365cbcf840c4a8dd74dbfb535
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/lrs2_v1_partadtd	8e53fc6260b244e71dafa71cd1f7eb5e 
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/lrs2_v1_partaetd	18b715baad746cab5c803984cb97931e 
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/pretrain.txt	6b05788d6a16166c15cdee5cfd8bbbd6 
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/train.txt	ae240cd86c8432afb5a6b8935c863f24 
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/val.txt	3b7502de5c102519d62477f209c4cd35 
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data2/test.txt	e76bb897a2141f3581266daa850966bc 

@@ -1,0 +1,17 @@
+GET /~vgg/data/lip_reading/data3/lrs3_trainval.zip HTTP/1.1
+Host: thor.robots.ox.ac.uk
+Connection: keep-alive
+Authorization: Basic bHJzMzEwNDpxRDdUWHQzeA==
+sec-ch-ua: "Google Chrome";v="95", "Chromium";v="95", ";Not A Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "macOS"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Cookie: _ga=GA1.3.55083412.1623570337

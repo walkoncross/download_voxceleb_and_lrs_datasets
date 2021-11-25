@@ -1,0 +1,10 @@
+https://www.robots.ox.ac.uk/~vgg/data/lip_reading/files/lrs3_v0.4_txt.zip
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_test_v0.4.zip
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_trainval.zip
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partaa
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partab
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partac
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partad
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partae
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partaf
+https://thor.robots.ox.ac.uk/~vgg/data/lip_reading/data3/lrs3_pretrain_partag
